@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Acal Home Center</string>
+    <string name="infPed">Informe o Pedido:</string>
+    <string name="btn_consultar">Consultar</string>
+    <string name="status">Status:</string>
+    <string name="resultado"></string>
+    <string name="BemVindo">Bem vindo ao aplicativo da Acal</string>
+    <string name="Casa">Entre e sinta - se em casa.</string>
+    <string name="Consulte">Consulte aqui o seu pedido.</string>
+    <string name="consultar">Consultar</string>
+    <string name="zap">(85)98639.0099</string>
+    <string name="disk">(85)3230.5300</string>
+    <string name="facebook_app_id">440383756354599</string>
+    <string name="fb_login_protocol_scheme">fb440383756354599</string>
+    <string name="title_activity_main">Acal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
